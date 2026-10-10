@@ -1,7 +1,7 @@
 {
-  "instant": false,
-  "studio120": false,
+  "instant": true,
+  "studio120": true,
   "checker_site": true,
   "message": "Maintenance",
-  "updated": "2026-10-10T11:51:28.043Z"
+  "updated": "2026-10-10T12:40:09.253Z"
 }

@@ -1,6 +1,6 @@
 {
-  "instant": true,
-  "studio120": true,
+  "instant": false,
+  "studio120": false,
   "checker_site": true,
   "message": "all done",
   "updated": "2026-10-09T22:04:24.393Z"

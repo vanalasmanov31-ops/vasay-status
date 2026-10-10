@@ -1,7 +1,7 @@
 {
   "instant": true,
   "studio120": true,
-  "checker_site": true,
-  "message": "",
-  "updated": "2026-10-10T15:17:57.073Z"
+  "min_version": "1.19.1",
+  "latest_version": "1.19.1",
+  "message": ""
 }

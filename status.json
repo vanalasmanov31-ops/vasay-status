@@ -1,7 +1,7 @@
 {
-  "instant": true,
-  "studio120": true,
+  "instant": false,
+  "studio120": false,
   "checker_site": true,
-  "message": "kill switch test",
-  "updated": "2026-10-10T10:08:55.623Z"
+  "message": "Maintenance",
+  "updated": "2026-10-10T11:51:28.043Z"
 }

@@ -1,6 +1,7 @@
 {
-  "instant": true,
-  "studio120": true,
+  "instant": false,
+  "studio120": false,
+  "checker_site": true,
   "min_version": "1.19.2",
   "latest_version": "1.19.2",
   "message": ""

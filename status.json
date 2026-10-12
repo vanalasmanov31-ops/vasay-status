@@ -1,9 +1,9 @@
 {
   "instant": true,
   "krypton": true,
-  "studio120": false,
+  "studio120": true,
   "checker_site": false,
   "min_version": "1.21.1",
   "latest_version": "1.21.1",
-  "message": ""
+  "message": "test"
 }

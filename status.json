@@ -1,6 +1,6 @@
 {
-  "instant": false,
-  "krypton": false,
+  "instant": true,
+  "krypton": true,
   "studio120": false,
   "checker_site": false,
   "min_version": "1.21.1",

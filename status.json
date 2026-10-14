@@ -2,8 +2,8 @@
   "instant": false,
   "krypton": false,
   "studio120": false,
-  "checker_site": false,
-  "min_version": "1.21.1",
+  "checker_site": true,
+  "min_version": "1.19.2",
   "latest_version": "1.21.1",
   "message": "test"
 }

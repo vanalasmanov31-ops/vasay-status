@@ -2,10 +2,10 @@
   "instant": true,
   "krypton": true,
   "studio120": true,
-  "checker_site": true,
-  "levass": true,
-  "fps120": true,
+  "checker_site": false,
+  "levass": false,
+  "fps120": false,
   "min_version": "1.21.1",
   "latest_version": "1.21.1",
-  "message": ""
+  "message": "Under Maintenance"
 }

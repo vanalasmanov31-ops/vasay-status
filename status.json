@@ -4,8 +4,8 @@
   "studio120": true,
   "checker_site": true,
   "levass": true,
-  "fps120": false,
+  "fps120": true,
   "min_version": "1.21.1",
   "latest_version": "1.21.1",
-  "message": "test"
+  "message": ""
 }
